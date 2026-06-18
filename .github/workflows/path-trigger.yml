@@ -17,4 +17,3 @@ jobs:
         run: |
           echo "=== src/sample.txt の中身を出力します ==="
           cat src/sample.txt
-          
